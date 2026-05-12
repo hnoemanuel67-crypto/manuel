@@ -1,40 +1,32 @@
 <h1 align="center">👋 Hola, soy Pedro Emmanuel</h1>
 
 <h3 align="center">
-💻 Estudiante de programación | Java Developer | Aprendiendo cada día 🚀
+💻 Desarrollador en formación | Java & HTML5 Developer 🚀
 </h3>
 
 ---
 
-# 🌟 Sobre mí
+# 💫 Sobre mí
 
-🎓 Soy estudiante apasionado por el desarrollo de software y la tecnología.  
-Me gusta crear aplicaciones funcionales, aprender nuevas herramientas y mejorar mis habilidades en programación.
+Soy estudiante de programación apasionado por el desarrollo de software, las bases de datos y el diseño de aplicaciones modernas.
 
-📍 Desde El Salvador 🇸🇻
-
-🔥 Actualmente trabajando en:
-- Aplicaciones en Java
-- Bases de datos con PostgreSQL
-- Diseño de interfaces UI/UX
-- Automatización y lógica de programación
-
-📚 Actualmente aprendiendo:
-- Java avanzado
-- SQL y PostgreSQL
+🚀 Actualmente enfocado en:
+- Desarrollo de aplicaciones Java
+- Diseño web con HTML5
+- Bases de datos PostgreSQL
+- Interfaces gráficas
 - Git y GitHub
-- Diseño de software
-- Desarrollo web
 
-⚡ Objetivos:
-- Convertirme en desarrollador Full Stack
-- Crear proyectos profesionales
-- Aprender nuevas tecnologías
-- Compartir mis proyectos en GitHub
+📚 Aprendiendo:
+- Java avanzado
+- SQL
+- JavaScript
+- UI/UX
+- Desarrollo Full Stack
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+# 🛠️ Lenguajes y Tecnologías
 
 <div align="center">
 
@@ -44,95 +36,80 @@ Me gusta crear aplicaciones funcionales, aprender nuevas herramientas y mejorar 
 
 ---
 
-# 💻 Aplicaciones y Proyectos
+# 💻 Software y Herramientas que utilizo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,netbeans,github,git,postgresql" />
+
+</div>
+
+### 🔥 Aplicaciones y programas:
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- PostgreSQL
+- Git
+- GitHub
+- Visual Studio Code
+- Apache NetBeans
+- pgAdmin
+- Navicat
 
 ---
 
-## 🖥️ Sistema de Ventas con IVA
+# 🚀 Proyectos Destacados
 
-📌 Aplicación desarrollada en Java utilizando interfaces gráficas.
+## 🖥️ Sistema de Ventas en Java
 
-### 🔥 Funciones:
-✅ Calcular precio con IVA automáticamente  
-✅ Mostrar precio sin IVA  
-✅ Botón limpiar campos  
+Aplicación desarrollada en Java con interfaz gráfica.
+
+### Funciones:
+✅ Calcular precios con IVA  
+✅ Mostrar resultados automáticos  
+✅ Botón limpiar  
 ✅ Botón salir  
 ✅ Validación de datos  
-✅ Interfaz amigable y sencilla  
 
-### 🛠️ Tecnologías utilizadas:
+### Tecnologías:
 - Java
 - Swing
 - Apache NetBeans
 
-### 📷 Objetivo:
-Facilitar cálculos rápidos de productos con y sin IVA para pequeños negocios o tareas escolares.
+---
+
+## 🌐 Página Web HTML5
+
+Proyecto de página web moderna utilizando tecnologías frontend.
+
+### Funciones:
+✅ Diseño responsive  
+✅ Formularios interactivos  
+✅ Navegación dinámica  
+✅ Estilo moderno  
+
+### Tecnologías:
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-## 🗄️ Sistema de Gestión con PostgreSQL
+## 🗄️ Sistema de Base de Datos PostgreSQL
 
-📌 Proyecto enfocado en la administración y conexión de bases de datos.
+Proyecto enfocado en administración y conexión de bases de datos.
 
-### 🔥 Funciones:
-✅ Crear bases de datos  
-✅ Crear tablas y relaciones  
+### Funciones:
+✅ Creación de tablas  
 ✅ Consultas SQL  
-✅ Conexión con pgAdmin  
-✅ Administración de usuarios  
-✅ Manejo de servidores PostgreSQL  
+✅ Relaciones entre tablas  
+✅ Gestión de usuarios  
 
-### 🛠️ Tecnologías utilizadas:
+### Tecnologías:
 - PostgreSQL
 - pgAdmin
-- Navicat
 - SQL
-
-### 📷 Objetivo:
-Aprender administración de bases de datos y conexión de aplicaciones con PostgreSQL.
-
----
-
-## 🎨 Proyecto UI/UX
-
-📌 Proyecto enfocado en experiencia de usuario y diseño de interfaces modernas.
-
-### 🔥 Incluye:
-✅ Principios de usabilidad  
-✅ Heurísticas de Nielsen  
-✅ Diseño limpio y moderno  
-✅ Wireframes  
-✅ Experiencia de usuario intuitiva  
-
-### 🛠️ Herramientas:
-- Figma
-- Canva
-- Visual Studio Code
-
-### 📷 Objetivo:
-Diseñar interfaces fáciles de usar y visualmente atractivas.
-
----
-
-## 🐔 Proyecto Creativo - Gallina con Material Reciclado
-
-📌 Manualidad escolar creada con tubos de papel higiénico y materiales reciclables.
-
-### 🔥 Incluye:
-✅ Diseño creativo  
-✅ Corte y armado  
-✅ Pintura y decoración  
-✅ Uso de materiales reciclados  
-
-### 🛠️ Materiales:
-- Tubos de cartón
-- Pintura
-- Tijeras
-- Pegamento
-- Cartulina
-
-### 📷 Objetivo:
-Desarrollar creatividad utilizando materiales reciclados.
 
 ---
 
@@ -158,24 +135,24 @@ Desarrollar creatividad utilizando materiales reciclados.
 
 ---
 
-# 🌐 Redes Sociales
+# 🌐 Contacto
 
 📌 GitHub  
 https://github.com/TUUSUARIO
 
-📌 Correo  
-tucorreo@example.com
-
 📌 LinkedIn  
 https://linkedin.com/in/TUUSUARIO
 
+📌 Correo  
+tucorreo@example.com
+
 ---
 
-# 🚀 Frase Personal
+# ⚡ Frase
 
 <div align="center">
 
-✨ “Cada línea de código es una oportunidad para aprender algo nuevo.” ✨
+💻 “Code, learn, improve, repeat.” 🚀
 
 </div>
 
@@ -185,28 +162,24 @@ https://linkedin.com/in/TUUSUARIO
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 </div>
 
 ---
-
-# 👀 Visitas al perfil
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=TUUSUARIO&color=blue)
+⭐ Gracias por visitar mi perfil ⭐
 
 </div>
-
----
-
-<h3 align="center">
-⭐ Gracias por visitar mi perfil ⭐
-</h3>
