@@ -30,9 +30,135 @@ Soy estudiante de programación apasionado por el desarrollo de software, las ba
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,postgresql,git,github,vscode" />
+<img 
+src="https://skillicons.dev/icons?i=java,html,css,js,postgresql,git,github,vscode" 
+usemap="#techmap"
+/>
+
+<map name="techmap">
+
+<area shape="rect" coords="0,0,50,50" href="#java-info" alt="Java">
+<area shape="rect" coords="50,0,100,50" href="#html-info" alt="HTML">
+<area shape="rect" coords="100,0,150,50" href="#css-info" alt="CSS">
+<area shape="rect" coords="150,0,200,50" href="#js-info" alt="JavaScript">
+<area shape="rect" coords="200,0,250,50" href="#postgres-info" alt="PostgreSQL">
+<area shape="rect" coords="250,0,300,50" href="#git-info" alt="Git">
+<area shape="rect" coords="300,0,350,50" href="#github-info" alt="GitHub">
+<area shape="rect" coords="350,0,400,50" href="#vscode-info" alt="VSCode">
+
+</map>
 
 </div>
+
+---
+
+# 📘 Información de Tecnologías
+
+## ☕ Java
+<a id="java-info"></a>
+
+Java es un lenguaje orientado a objetos utilizado para:
+- Aplicaciones de escritorio
+- Sistemas empresariales
+- Aplicaciones Android
+- Backend
+
+✅ Tecnologías relacionadas:
+- Swing
+- JDBC
+- Maven
+- Spring Boot
+
+---
+
+## 🌐 HTML5
+<a id="html-info"></a>
+
+HTML5 se utiliza para crear la estructura de páginas web.
+
+✅ Permite:
+- Formularios
+- Multimedia
+- Navegación
+- Estructura semántica
+
+---
+
+## 🎨 CSS3
+<a id="css-info"></a>
+
+CSS3 sirve para diseñar y estilizar páginas web.
+
+✅ Características:
+- Animaciones
+- Responsive Design
+- Flexbox
+- Grid
+
+---
+
+## ⚡ JavaScript
+<a id="js-info"></a>
+
+JavaScript agrega interactividad a las páginas web.
+
+✅ Funciones:
+- Eventos
+- Validaciones
+- Animaciones
+- Consumo de APIs
+
+---
+
+## 🐘 PostgreSQL
+<a id="postgres-info"></a>
+
+PostgreSQL es un sistema gestor de bases de datos.
+
+✅ Funciones:
+- Consultas SQL
+- Relaciones
+- Seguridad
+- Procedimientos almacenados
+
+---
+
+## 🔧 Git
+<a id="git-info"></a>
+
+Git es un sistema de control de versiones.
+
+✅ Permite:
+- Historial de cambios
+- Trabajo en equipo
+- Branches
+- Versionado
+
+---
+
+## 🐙 GitHub
+<a id="github-info"></a>
+
+GitHub es una plataforma para alojar proyectos Git.
+
+✅ Funciones:
+- Repositorios
+- Pull Requests
+- Issues
+- Actions
+
+---
+
+## 💻 Visual Studio Code
+<a id="vscode-info"></a>
+
+VS Code es un editor de código moderno y ligero.
+
+✅ Características:
+- Extensiones
+- Terminal integrada
+- Git integrado
+- Multilenguaje
 
 ---
 
